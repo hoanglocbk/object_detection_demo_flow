@@ -1,0 +1,38 @@
+<annotation>
+  <folder>data</folder>
+  <filename>chuyentiep_54</filename>
+  <path>E:\Data\Pycharm Project\PT_ObjectDetection\Label\data\chuyentiep_54.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1150</width>
+    <height>750</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chuyentiep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>316</ymin>
+      <xmax>330</xmax>
+      <ymax>457</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ngoctuyen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1026</xmin>
+      <ymin>1</ymin>
+      <xmax>1114</xmax>
+      <ymax>17</ymax>
+    </bndbox>
+  </object>
+</annotation>

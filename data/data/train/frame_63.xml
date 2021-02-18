@@ -1,0 +1,38 @@
+<annotation>
+  <folder>data</folder>
+  <filename>frame_63</filename>
+  <path>E:\Data\Pycharm Project\PT_ObjectDetection\Label\data\frame_63.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1150</width>
+    <height>750</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>baothuong</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>721</xmin>
+      <ymin>317</ymin>
+      <xmax>844</xmax>
+      <ymax>492</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>trieuca</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1037</xmin>
+      <ymin>1</ymin>
+      <xmax>1108</xmax>
+      <ymax>19</ymax>
+    </bndbox>
+  </object>
+</annotation>

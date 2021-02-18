@@ -1,0 +1,38 @@
+<annotation>
+  <folder>data</folder>
+  <filename>frame_26</filename>
+  <path>E:\Data\Pycharm Project\PT_ObjectDetection\Label\data\frame_26.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1150</width>
+    <height>750</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>nhachiemtinh</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>707</xmin>
+      <ymin>544</ymin>
+      <xmax>752</xmax>
+      <ymax>672</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>trieuca</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1038</xmin>
+      <ymin>1</ymin>
+      <xmax>1107</xmax>
+      <ymax>19</ymax>
+    </bndbox>
+  </object>
+</annotation>
