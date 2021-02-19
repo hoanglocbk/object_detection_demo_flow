@@ -1,7 +1,7 @@
 <annotation>
-  <folder>data</folder>
+  <folder>image</folder>
   <filename>frame_10</filename>
-  <path>E:\Data\Pycharm Project\PT_ObjectDetection\Label\data\frame_10.jpg</path>
+  <path>E:\Data\Pycharm Project\PT_ObjectDetection\Label\image\frame_10.jpg</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -12,15 +12,15 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>nhachiemtinh</name>
+    <name>hong</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>439</xmin>
-      <ymin>244</ymin>
-      <xmax>494</xmax>
-      <ymax>374</ymax>
+      <xmin>547</xmin>
+      <ymin>320</ymin>
+      <xmax>614</xmax>
+      <ymax>338</ymax>
     </bndbox>
   </object>
 </annotation>
