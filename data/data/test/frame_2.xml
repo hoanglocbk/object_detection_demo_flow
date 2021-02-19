@@ -23,16 +23,4 @@
       <ymax>502</ymax>
     </bndbox>
   </object>
-  <object>
-    <name>trieuca</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1037</xmin>
-      <ymin>3</ymin>
-      <xmax>1105</xmax>
-      <ymax>18</ymax>
-    </bndbox>
-  </object>
 </annotation>

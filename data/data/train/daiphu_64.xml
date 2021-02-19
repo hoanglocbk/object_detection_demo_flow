@@ -23,16 +23,4 @@
       <ymax>435</ymax>
     </bndbox>
   </object>
-  <object>
-    <name>ngoctuyen</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1028</xmin>
-      <ymin>1</ymin>
-      <xmax>1117</xmax>
-      <ymax>18</ymax>
-    </bndbox>
-  </object>
 </annotation>

@@ -17,22 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>443</xmin>
-      <ymin>174</ymin>
+      <xmin>470</xmin>
+      <ymin>193</ymin>
       <xmax>533</xmax>
       <ymax>335</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>trieuca</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1038</xmin>
-      <ymin>1</ymin>
-      <xmax>1106</xmax>
-      <ymax>18</ymax>
     </bndbox>
   </object>
 </annotation>

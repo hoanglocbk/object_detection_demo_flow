@@ -35,16 +35,4 @@
       <ymax>159</ymax>
     </bndbox>
   </object>
-  <object>
-    <name>manhtan</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1038</xmin>
-      <ymin>2</ymin>
-      <xmax>1107</xmax>
-      <ymax>18</ymax>
-    </bndbox>
-  </object>
 </annotation>

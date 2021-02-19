@@ -23,16 +23,4 @@
       <ymax>376</ymax>
     </bndbox>
   </object>
-  <object>
-    <name>tamson</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1042</xmin>
-      <ymin>2</ymin>
-      <xmax>1101</xmax>
-      <ymax>19</ymax>
-    </bndbox>
-  </object>
 </annotation>

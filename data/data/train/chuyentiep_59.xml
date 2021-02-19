@@ -23,16 +23,4 @@
       <ymax>453</ymax>
     </bndbox>
   </object>
-  <object>
-    <name>tuyetcoc</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1030</xmin>
-      <ymin>1</ymin>
-      <xmax>1111</xmax>
-      <ymax>20</ymax>
-    </bndbox>
-  </object>
 </annotation>

@@ -23,16 +23,4 @@
       <ymax>594</ymax>
     </bndbox>
   </object>
-  <object>
-    <name>tayky</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1043</xmin>
-      <ymin>1</ymin>
-      <xmax>1096</xmax>
-      <ymax>19</ymax>
-    </bndbox>
-  </object>
 </annotation>

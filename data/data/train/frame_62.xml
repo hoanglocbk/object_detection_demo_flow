@@ -12,15 +12,15 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>trieuca</name>
+    <name>baothuong</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>1038</xmin>
-      <ymin>3</ymin>
-      <xmax>1107</xmax>
-      <ymax>18</ymax>
+      <xmin>819</xmin>
+      <ymin>286</ymin>
+      <xmax>864</xmax>
+      <ymax>425</ymax>
     </bndbox>
   </object>
 </annotation>

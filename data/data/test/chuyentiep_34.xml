@@ -23,16 +23,4 @@
       <ymax>699</ymax>
     </bndbox>
   </object>
-  <object>
-    <name>ngochucung</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1018</xmin>
-      <ymin>3</ymin>
-      <xmax>1125</xmax>
-      <ymax>19</ymax>
-    </bndbox>
-  </object>
 </annotation>
