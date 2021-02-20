@@ -1,0 +1,38 @@
+<annotation>
+  <folder>backup</folder>
+  <filename>daiphu_48</filename>
+  <path>E:\Data\Pycharm Project\PT_ObjectDetection\Label\backup\daiphu_48.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1150</width>
+    <height>750</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>daiphu</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>693</xmin>
+      <ymin>80</ymin>
+      <xmax>743</xmax>
+      <ymax>216</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ngochucung</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1020</xmin>
+      <ymin>3</ymin>
+      <xmax>1122</xmax>
+      <ymax>18</ymax>
+    </bndbox>
+  </object>
+</annotation>

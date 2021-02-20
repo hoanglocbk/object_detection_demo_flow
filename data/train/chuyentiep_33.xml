@@ -1,0 +1,38 @@
+<annotation>
+  <folder>backup</folder>
+  <filename>chuyentiep_33</filename>
+  <path>E:\Data\Pycharm Project\PT_ObjectDetection\Label\backup\chuyentiep_33.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1150</width>
+    <height>750</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chuyentiep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>872</xmin>
+      <ymin>318</ymin>
+      <xmax>1072</xmax>
+      <ymax>414</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>channuiconlon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1001</xmin>
+      <ymin>2</ymin>
+      <xmax>1140</xmax>
+      <ymax>18</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+  <folder>backup</folder>
+  <filename>chuyentiep_24</filename>
+  <path>E:\Data\Pycharm Project\PT_ObjectDetection\Label\backup\chuyentiep_24.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1150</width>
+    <height>750</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chuyentiep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>351</xmin>
+      <ymin>146</ymin>
+      <xmax>542</xmax>
+      <ymax>245</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tuyetlonglinh</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1007</xmin>
+      <ymin>2</ymin>
+      <xmax>1136</xmax>
+      <ymax>17</ymax>
+    </bndbox>
+  </object>
+</annotation>
