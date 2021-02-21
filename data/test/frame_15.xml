@@ -1,0 +1,26 @@
+<annotation>
+  <folder>image</folder>
+  <filename>frame_15</filename>
+  <path>E:\Data\Pycharm Project\PT_ObjectDetection\Label\image\frame_15.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>960</width>
+    <height>540</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>daocam</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>497</xmin>
+      <ymin>193</ymin>
+      <xmax>635</xmax>
+      <ymax>223</ymax>
+    </bndbox>
+  </object>
+</annotation>
