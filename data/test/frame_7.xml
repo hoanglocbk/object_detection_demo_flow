@@ -1,38 +1,26 @@
 <annotation>
-  <folder>backup</folder>
+  <folder>image</folder>
   <filename>frame_7</filename>
-  <path>E:\Data\Pycharm Project\PT_ObjectDetection\Label\backup\frame_7.jpg</path>
+  <path>E:\Data\Pycharm Project\PT_ObjectDetection\Label\image\frame_7.jpg</path>
   <source>
     <database>Unknown</database>
   </source>
   <size>
-    <width>1150</width>
-    <height>750</height>
+    <width>960</width>
+    <height>540</height>
     <depth>3</depth>
   </size>
   <segmented>0</segmented>
   <object>
-    <name>nhachiemtinh</name>
+    <name>hoangu</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>534</xmin>
-      <ymin>165</ymin>
-      <xmax>580</xmax>
-      <ymax>266</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>trieuca</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1038</xmin>
-      <ymin>2</ymin>
-      <xmax>1107</xmax>
-      <ymax>19</ymax>
+      <xmin>498</xmin>
+      <ymin>195</ymin>
+      <xmax>635</xmax>
+      <ymax>224</ymax>
     </bndbox>
   </object>
 </annotation>
